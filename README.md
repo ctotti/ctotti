@@ -1,4 +1,4 @@
-### Olá! Eu sou Camila Totti!
+### Olá, eu sou Camila Totti!
 
 🌍 Profissional de geoprocessamento com experiência em R e Python :)
 
