@@ -1,11 +1,11 @@
 <div>
   
   <h1 align="center">
-    Olá, eu sou Camila Totti!
+    Hello, I'm Camila Totti!
   </h1>
 
 <p align="center">
-  🌍 Profissional de geoprocessamento com experiência em R e Python :)
+  🌍 Geoprocessing professional with experience in R and Python :)
 </p>
 
 ##
