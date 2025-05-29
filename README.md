@@ -5,7 +5,7 @@
   </h1>
 
 <p align="center">
-  🌍 Geoprocessing professional with experience in R and Python :)
+  🌍 Data Scientist working with Earth Observation at INPE (Brazil's National Institute for Space Research) :)
 </p>
  
  ##
