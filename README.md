@@ -62,5 +62,3 @@ I work with **Python, SQL, ArcGIS, QGIS, Google Earth Engine, and Machine Learni
 - Snowflake
 - Docker
 - French 🇫🇷
-
-Uma sugestão que acho q
