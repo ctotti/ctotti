@@ -26,6 +26,20 @@ I work with **Python, SQL, ArcGIS, QGIS, Google Earth Engine, and Machine Learni
 
 ---
 
+## 📂 Featured Repositories
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| **[geo-dengue-niteroi](https://github.com/SEU_USUARIO/geo-dengue-niteroi)** | End-to-end GIS case study covering data cleaning, spatial analysis, dengue incidence calculation, and interactive web mapping. | R • Leaflet • HTML |
+| **[data-analyst-portfolio](https://github.com/SEU_USUARIO/data-analyst-portfolio)** *(In Progress)* | Portfolio of data analytics projects covering Python, SQL, statistics, visualization and machine learning. | Python • SQL • Snowflake |
+| **[Rayshader-RJ](https://github.com/SEU_USUARIO/Rayshader-RJ)** | High-quality 3D terrain visualization using R and the rayshader package. | R |
+| **[INPE_Disciplinas](https://github.com/SEU_USUARIO/INPE_Disciplinas)** | Python notebooks developed during my M.Sc. in Remote Sensing at INPE. *(Portuguese)* | Python • Jupyter |
+| **[PythonParaGeociencias](https://github.com/SEU_USUARIO/PythonParaGeociencias)** | Teaching materials for an introductory Python course for Geosciences. *(Portuguese)* | Python • Jupyter |
+| **[Mapeamento-Costeiro-R](https://github.com/SEU_USUARIO/Mapeamento-Costeiro-R)** | Coastal mapping course materials developed at Universidade Federal Fluminense. *(Portuguese)* | R |
+| **[GeoPython_Materials](https://github.com/SEU_USUARIO/GeoPython_Materials)** | Curated collection of Python geospatial packages, references, and learning resources. | Python |
+
+---
+
 ## 🚀 Career Highlights
 
 - Automated geospatial processing pipelines for **200,000+ address records**, reducing manual work by **~80%** using Python, SQL, and ArcGIS.
